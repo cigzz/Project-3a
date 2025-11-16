@@ -1,0 +1,4 @@
+Flask
+pygal
+lxml
+requests
